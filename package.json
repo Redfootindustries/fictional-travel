@@ -18,5 +18,8 @@
   "homepage": "https://github.com/Redfootindustries/fictional-travel#readme",
   "dependencies": {
     "jquery": "^3.2.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
   }
 }
