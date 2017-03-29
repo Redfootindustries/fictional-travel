@@ -16,11 +16,11 @@
   }
 
   &--b-margin {
-    margin-bottom: 1rem;
+    margin-bottom: 3.875rem;
 
 @media atSmall {
 
-    margin-bottom: 3.875rem;
+    margin-bottom: 1rem;
   }
 }
 }
