@@ -622,13 +622,13 @@ padding: 1.2rem 0;
   color: #FFF;
 }
 
-.page-section--testimonials {
+.page-section--test {
   background-color: #e0e6ef;
 }
 
 @media (min-width: 1010px) {
 
-  .page-section--testimonials {
+  .page-section--test {
     background: url('/assets/images/testimonials-bg.jpg') top center no-repeat;
     background-size: cover;
   }
@@ -806,14 +806,14 @@ padding: 1.2rem 0;
 
 @media (min-width: 1010px) {
 
-  .row--equal-height-at-Large {
+  .row--equal-height-at-large {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
   }
 }
 
-.row--equal-height-at-Large > div {
+.row--equal-height-at-large > div {
   float: none;
   display: -webkit-box;
   display: -ms-flexbox;

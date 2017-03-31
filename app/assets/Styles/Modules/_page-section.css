@@ -27,7 +27,7 @@ padding: 1.2rem 0;
     background-color: $mainBlue;
     color: #FFF;
   }
-&--testimonials {
+&--test {
     background-color: #e0e6ef;
 
   @mixin atLarge {

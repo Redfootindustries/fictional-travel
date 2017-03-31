@@ -108,7 +108,7 @@
   }
 }
 
-&--equal-height-at-Large {
+&--equal-height-at-large {
   @mixin atLarge {
     display: flex;
   }
